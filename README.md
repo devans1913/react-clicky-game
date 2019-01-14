@@ -11,4 +11,5 @@ This is a simple memorization and click game. The object of the game is to click
 * Bootstrap
 * CSS
 
-## Play Here: https://pacific-wave-70269.herokuapp.com/
+## Play Here: 
+https://pacific-wave-70269.herokuapp.com/
