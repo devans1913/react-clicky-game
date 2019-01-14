@@ -1,0 +1,61 @@
+[{
+        "id": 1,
+        "image": "./assets/images/Alita.jpg",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "image": "./assets/images/Avengers.jpg",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "image": "./assets/images/City.jpg",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "image": "./assets/images/Coldpursuit.jpg",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "image": "./assets/images/glass.jpg",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "image": "./assets/images/IT.jpg",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "image": "./assets/images/Upside.jpg",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "image": "./assets/images/US.jpg",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "image": "./assets/images/Men.jpg",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "image": "./assets/images/ToyStory.jpg",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "image": "./assets/images/Little.jpg",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "image": "./assets/images/LionKing.jpg",
+        "clicked": false
+    }
+]

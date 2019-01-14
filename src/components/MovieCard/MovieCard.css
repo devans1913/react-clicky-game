@@ -1,0 +1,28 @@
+.card {
+    background: #fff;
+    border-radius: 2px;
+    box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+    text-align: left;
+    justify-content: center;
+}
+
+.card>.img-container {
+    overflow: hidden;
+    text-align: center;
+    background: black;
+    justify-content: center;  
+    margin: 15px;   
+}
+
+.card>.img-container>img {
+    width: 190px;   
+}
+
+.card-header {
+    padding: .75rem 1.25rem;
+    margin-bottom: 0;
+    width: 190px;
+    color: black;
+    background-color:white;
+    border-bottom: 1px solid rgba(0,0,0,.125);
+}
